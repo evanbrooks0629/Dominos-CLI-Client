@@ -1,7 +1,7 @@
 # Dominos CLI Client
 
 # Set up
-First, clone this project onto your computer. CD into the directory and type `npm install` to install the packages.
+First, clone this project onto your computer. `cd` into the directory and type `npm install` to install the packages.
 Then, type in 
 `npm install --save -g run-func`
 The purpose of this package is to allow for you to do everything from the command line.
@@ -17,6 +17,6 @@ Once you know what products you want (for example, products 1, 5, and 46), then 
 `npx run-func app.js run [1,5,46]`
 The last part of the above line is an array with the products you want. Once you hit enter, you will either see a success message or an error message.
 
-If the order went through, you can go to [here](https://www.dominos.com/en/pages/tracker/#!/track/order/) to track your order. Use the phone number in the config.json file to track it.
+If the order went through, you can go to [here](https://www.dominos.com/en/pages/tracker/#!/track/order/) to track your order. Use the phone number in the `config.json` file to track it.
 
 If you enjoyed this, feel free to add to it and expand upon it. 
