@@ -1,0 +1,48 @@
+{
+    "Order": {
+      "Address": {},
+      "Coupons": [
+        
+      ],
+      "CustomerID": "",
+      "Email": "",
+      "Extension": "",
+      "FirstName": "",
+      "LastName": "",
+      "LanguageCode": "en",
+      "OrderChannel": "OLO",
+      "OrderID": "",
+      "OrderMethod": "Web",
+      "OrderTaker": null,
+      "Payments": [],
+      "Phone": "",
+      "PhonePrefix": "",
+      "Products": [],
+      "ServiceMethod": "Delivery",
+      "SourceOrganizationURI": "order.dominos.com",
+      "StoreID": "",
+      "Tags": {
+        
+      },
+      "Version": "1.0",
+      "NoCombine": true,
+      "Partners": {
+        
+      },
+      "HotspotsLite": false,
+      "OrderInfoCollection": [
+        
+      ],
+      "NewUser": true,
+      "metaData": {
+        "calculateNutrition": "true",
+        "orderFunnel": "payments",
+        "isDomChat": 0,
+        "ABTests": [
+          "ECOM-30049 - Control",
+          "ECOM-23619 - Experience B"
+        ],
+        "contactless": true
+      }
+    }
+  }

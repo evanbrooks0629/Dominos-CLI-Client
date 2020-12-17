@@ -1,0 +1,43 @@
+{
+    "Order": {
+      "Address": {},
+      "Coupons": [
+        
+      ],
+      "CustomerID": "",
+      "Email": "",
+      "Extension": "",
+      "FirstName": "",
+      "LastName": "",
+      "LanguageCode": "en",
+      "OrderChannel": "OLO",
+      "OrderID": "",
+      "OrderMethod": "Web",
+      "OrderTaker": null,
+      "Payments": [
+        
+      ],
+      "Phone": "",
+      "PhonePrefix": "",
+      "Products": [],
+      "ServiceMethod": "Delivery",
+      "SourceOrganizationURI": "order.dominos.com",
+      "StoreID": "4920",
+      "Tags": {
+        
+      },
+      "Version": "1.0",
+      "NoCombine": true,
+      "Partners": {
+        
+      },
+      "HotspotsLite": false,
+      "OrderInfoCollection": [
+        
+      ],
+      "metaData": {
+        "calculateNutrition": "true",
+        "orderFunnel": "cart"
+      }
+    }
+  }

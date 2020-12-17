@@ -1,0 +1,18 @@
+{
+    "first": "Evan",
+    "last": "Brooks",
+    "email": "evanbrooks0629@gmail.com",
+    "phone": "5617898905",
+    "address": {
+        "street": "6840 NW 65th Terrace",
+        "city": "Parkland",
+        "state": "FL",
+        "zip": "33067"
+    },
+    "card": {
+        "number": "4444444444444444",
+        "exp": "0822",
+        "cvv": "035"
+    }
+}
+
