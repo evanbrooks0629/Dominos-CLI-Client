@@ -1,18 +1,18 @@
 {
-    "first": "Evan",
-    "last": "Brooks",
-    "email": "evanbrooks0629@gmail.com",
-    "phone": "5617898905",
+    "first": "first name",
+    "last": "last name",
+    "email": "email@gmail.com",
+    "phone": "1234567890",
     "address": {
-        "street": "6840 NW 65th Terrace",
-        "city": "Parkland",
-        "state": "FL",
-        "zip": "33067"
+        "street": "123 NW 1st Ave",
+        "city": "City",
+        "state": "CA",
+        "zip": "12345"
     },
     "card": {
         "number": "4444444444444444",
-        "exp": "0822",
-        "cvv": "035"
+        "exp": "0123",
+        "cvv": "456"
     }
 }
 
