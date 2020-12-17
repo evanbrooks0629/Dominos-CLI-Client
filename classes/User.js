@@ -31,8 +31,6 @@ class User {
                 "Options": { 'C': {'1/1': '1'}, 'X': {'1/1': '1'} }
             });
         }
-        console.log(this.order);
-        console.log(user_order);
         return user_order;
     }
 

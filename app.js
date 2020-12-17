@@ -1,10 +1,10 @@
-const config = require("./config");
-const products = require("./products");
-const Address = require("./Address");
-const Card = require("./Card");
-const Item = require("./Item");
-const User = require("./User");
-const Delivery = require("./Delivery");
+const config = require("./data/config.json");
+const products = require("./data/products.json");
+const Address = require("./classes/Address");
+const Card = require("./classes/Card");
+const Item = require("./classes/Item");
+const User = require("./classes/User");
+const Delivery = require("./classes/Delivery");
 const list_products = require("./list_products");
 // keeps list_products on a separate file for organization
 
@@ -24,7 +24,6 @@ const run = (items) => {
             // if items are valid, then create an Item instance for each product
             // add Item to cart
             item.toString();
-            console.log(products[item]);
             prod = new Item(products[item], 1);
             cart.push(prod);
         }

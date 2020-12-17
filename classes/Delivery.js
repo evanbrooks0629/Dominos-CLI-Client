@@ -1,7 +1,7 @@
 const axios = require("axios");
 const util = require('util')
-const order_json = require("./Order");
-const price_json = require("./Price");
+const order_json = require("../data/Order");
+const price_json = require("../data/Price");
 
 class Delivery {
     constructor(user) {

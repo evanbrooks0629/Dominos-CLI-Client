@@ -1,4 +1,4 @@
-const config = require("./config");
+const config = require("./data/config.json");
 
 const list_products = () => {
     console.log("\n Welcome, " + config.first + "!");
