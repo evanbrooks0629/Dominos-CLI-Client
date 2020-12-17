@@ -19,6 +19,7 @@ class Delivery {
     
         price_json.Order.Address = user_address; // set address in json file to get total cost
         price_json.Order.Products = user_order; // set products in json file to get total cost
+        price_json.Order.StoreID = store_id; // set store id in json file to get total cost
     
         // make a post request with the products to find out total cost
         const price_order = await axios.post("https://order.dominos.com/power/price-order", price_json);
